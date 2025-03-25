@@ -1,2 +1,2 @@
 #!/bin/bash
-streamlit run app.py --server.port=$PORT
+streamlit run voicebot_streamlit_app.py --server.port=$PORT
