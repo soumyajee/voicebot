@@ -5,3 +5,4 @@ numpy
 wave
 requests
 python-dotenv
+streamlit-audiorec
